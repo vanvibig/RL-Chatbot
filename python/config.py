@@ -2,19 +2,19 @@
 training_data_path = 'data/conversations_lenmax22_formersents2_with_former'
 
 # path to all_words
-all_words_path = 'data/all_words.txt'
+all_words_path = 'data/all_words_2k_line.txt'
 
 # training parameters 
 CHECKPOINT = False
 train_model_path = 'model'
 train_model_name = 'model-55'
-start_epoch = 56
+start_epoch = 1
 start_batch = 0
 batch_size = 25
 
 # for RL training
-training_type = 'normal' # 'normal' for seq2seq training, 'pg' for policy gradient
-reversed_model_path = 'Adam_encode22_decode22_reversed-maxlen22_lr0.0001_batch25_wordthres6'
+training_type = 'pg' # 'normal' for seq2seq training, 'pg' for policy gradient
+reversed_model_path = 'model/Reversed'
 reversed_model_name = 'model-63'
 
 # data reader shuffle index list
