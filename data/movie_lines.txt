@@ -1,0 +1,500 @@
+L1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Vậy là chiến tranh đã tới đây
+L2 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vâng thưa Cha và con sẽ là người đầu tiên đăng lính
+L3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh không đăng lính sao
+L4 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Thợ máy công ty đường sắt Western and Atlantic
+L5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hắn làm thợ máy sẽ có ích hơn cho Miền Nam
+L6 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng tôi không thể nhận anh được
+L7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Phục vụ quày bar
+L8 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu các người thua cuộc chiến này thì đừng có đổ thừa tôi
+L9 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Johnnie đăng ký chưa
+L10 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hắn còn không chịu xếp hàng nữa
+L11 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hắn là một nỗi ô nhục cho Miền Nam
+L12 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sao anh không đăng ký
+L13 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Họ không chịu nhận anh
+L14 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Trong một doanh trại quân Liên Bang ngay phía bắc cần thơ
+L15 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tướng Thatcher và sĩ quan quân báo Đại úy Anderson
+L16 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vậy thì vào ngày anh cướp xe lửa tôi sẽ cho Tướng Parker tiến quân tới gặp anh
+L17 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ngay khi tới nơi em sẽ cho anh biết Cha bị thương ra sao
+L18 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nghỉ 20 phút ăn tối
+L19 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có ba người cướp chiếc Đại Tướng của tôi
+L20 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi nghĩ chúng là những tên phản bội
+L21 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Sao không dừng lại chiến đấu với họ
+L22 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sợ là họ đông quân hơn mình nhiều
+L23 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nam Quân ở cần thơ được lệnh rút lui
+L24 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bắc Quân chiến thắng của Tướng Parker đang tiến lên
+L25 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chỉ có một người trên cái đầu máy đó
+L26 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Trong lãnh thổ của kẻ thù lạc lõng vô vọng đói và lạnh khủng khiếp
+L27 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình nên ở lại đây tới khi trời sáng để coi mình đang ở đâu
+L28 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sau một đêm yên ổn nghỉ ngơi lại sức
+L29 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ bắt tên gián điệp đó trước khi hắn tới phòng tuyến Nam Quân
+L30 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông theo sau cùng đoàn xe tiếp tế theo đúng kế hoạch
+L31 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng ta phải kiếm thêm củi
+L32 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sư đoàn Bắc Quân đang ở gần cầu đợi gặp đoàn xe tiếp tế
+L33 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đó là quân phục của anh sao
+L34 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi phải mặc vậy để thâm nhập phòng tuyến địch
+L35 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ghi danh ông Trung úy
+L36 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ba mươi ngàn Người Nga
+L37 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Người Nga thì chúng ta bắt được mỗi ngày còn nhiều hơn số đó
+L38 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chiến tranh là chiến tranh còn rượu là rượu và công việc làm ăn vẫn phải tiếp tục
+L39 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Sáng nay ông vẫn chưa phát thư
+L40 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ À tôi xin lỗi ông Meyer
+L41 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ bảo vệ đất nước ta tổ quốc ta
+L42 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bây giờ các trò thân yêu đây là chuyện chúng ta phải làm
+L43 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bất đắc dĩ tôi phải nêu lại chủ đề này một lần nữa
+L44 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Các bạn là những anh hùng sẽ đứng lên đánh bại kẻ thù khi tổ quốc cần các bạn
+L45 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi được biết có một ngôi trường mà tất cả các thanh niên đã đồng loạt đăng ký
+L46 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi biết các bạn không bao giờ muốn được tung hô là anh hùng
+L47 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nhưng một phẩm chất không thể bỏ qua là phải hiên ngang trên chiến trường
+L48 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi tin rằng đây là một cuộc chiến ngắn và sẽ có ít mất mát
+L49 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chết cho tổ quốc là một cái chết ngọt ngào và xứng đáng
+L50 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có vài bạn có thể có những tham vọng
+L51 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nhưng bây giờ đất nước kêu gọi
+L52 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tổ quốc cần những lãnh đạo
+L53 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tham vọng cá nhân phải được dẹp qua một bên để hy sinh cho đất nước
+L54 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tại sao chúng ta còn ở đây
+L55 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh Kropp cái gì đã giữ anh lại phía sau
+L56 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh Mueller anh biết tổ quốc cần anh ra sao
+L57 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ đi Tôi muốn đi
+L58 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ không ở nhà
+L59 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không học hành nữa
+L60 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Không học hành nữa
+L61 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bên trái quay Mặc đồng phục chuẩn bị điểm danh
+L62 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cá với các bạn là một chỗ như vầy sẽ luyện các bạn nên người
+L63 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh còn phải đi hành quân nữa
+L64 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ vô đội kỵ binh và cỡi ngựa
+L65 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi không thích kỵ binh Bộ binh mới là nơi mình chiến đấu
+L66 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Súng ở đâu hết rồi
+L67 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Còn lâu anh mới nhận được súng
+L68 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu muốn cho tôi bắn quân thù thì phải cho tôi tập luyện chớ
+L69 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đó chính là thứ tôi muốn
+L70 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Lần này anh được huy chương rồi đó Mueller
+L71 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cứ chờ coi Chỉ trong một tháng người tôi sẽ đầy huy chương
+L72 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ê bỏ đôi giày ra khỏi mặt tôi
+L73 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh phải lấy làm vinh dự có đôi giày này trên mặt
+L74 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đây là đôi tốt nhất trong quân đội
+L75 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chú tôi đã cho tôi đó
+L76 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hãy nhìn cái thứ da nhập cảng đặc biệt đó đi
+L77 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ngay cả một cô phụ bếp còn không thèm nhìn tôi trong bộ đồ này
+L78 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ôi trời đất ơi
+L79 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Và ăn mặc ngon lành
+L80 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông không ngờ gặp lại chúng tôi sớm quá vậy phải không
+L81 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thấy cấp bậc của tôi không
+L82 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vậy thì lui lại
+L83 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Himmelstoss chúng tôi rất mừng được gặp ông Anh vừa nói gì
+L84 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bỏ đi Anh bị sao vậy
+L85 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Khi anh nói chuyện với sĩ quan cấp trên phải nói sếp
+L86 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ở đâu ông có đồng phục đẹp quá vậy
+L87 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thôi mà Himmelstoss Tụi tôi biết ông
+L88 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đừng làm bộ nữa
+L89 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chắc là ông đang giỡn Rồi anh sẽ biết tôi có giỡn hay không
+L90 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhưng chỉ mới ba ngày trước ông là bưu tá của chúng tôi
+L91 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Sắp hàng sao cho coi được
+L92 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sắp hàng nghe chưa
+L93 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đúng là một cảnh tượng đẹp
+L94 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Các anh chưa bao giờ nghe nói về sắp hàng sao
+L95 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các anh lộn xộn quá
+L96 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Được tôi sẽ phải dạy các anh Sẽ phải tốn cả ngày trời hả
+L97 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ không bỏ mặc các anh đâu
+L98 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Các anh vẫn chưa sẵn sàng để bắt đầu nhưng tôi sẽ làm hết sức mình
+L99 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Và việc đầu tiên là phải quên hết mọi thứ các anh từng biết
+L100 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Mọi thứ các anh từng học được Quên hết Hiểu chưa
+L101 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các anh sẽ trở thành những người lính chỉ có vậy thôi
+L102 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ vắt cạn kiệt các anh
+L103 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ làm các anh trở thành những người lính hoặc là giết chết các anh Bây giờ nghiêm
+L104 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chi đội nằm xuống
+L105 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chi đội đứng lên
+L106 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Các anh gọi đó là hát sao
+L107 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chi đội đứng lại
+L108 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vậy không có tinh thần hả
+L109 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không có tâm trạng giải trí hả
+L110 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vậy thì quay lại làm việc
+L111 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Duyệt binh lúc 3 giờ
+L112 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ôi đồ con heo
+L113 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Vậy nghĩa là mình không có giờ nghỉ
+L114 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Phải mất tới bốn tiếng để chuẩn bị duyệt binh
+L115 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi muốn biết có gì trong đầu óc lão Lão không có chút đầu óc nào
+L116 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sẽ có lúc tôi cắt nó ra để coi
+L117 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Da lão dày lắm
+L118 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Không cắt nổi đâu
+L119 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đây là lần thứ tư lão làm tôi lỡ hẹn với cô gái tội nghiệp đó
+L120 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cầm súng chào Vai trái súng
+L121 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Trái trái trái trái
+L122 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hàng bên trái bước Đội hình bên trái bước
+L123 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chi đội nằm xuống
+L124 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Lão phá giờ nghỉ của chúng ta
+L125 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ không bao giờ tha thứ cho lão Đồ xấu xa
+L126 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nghỉ tới nửa đêm Hả
+L127 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Phải tới nửa đêm mới khô hết quần áo
+L128 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Coi con khỉ đột đó đi kìa
+L129 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Trong khi mình tối mặt với đám sình bùn này thì lão đi uống rượu
+L130 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Một ngày nào tôi sẽ đấm vô mặt lão
+L131 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chỉ một cú thôi
+L132 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đó là tâm nguyện của tôi kể từ bây giờ
+L133 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh làm gì vậy Anh không định đào ngũ đó chớ
+L134 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi có một ý
+L135 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bò tới trước Nằm xuống
+L136 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Paul anh có sao không
+L137 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hình như có thêm nhiều người tới thay thế Phải Chắc jaden đem củi về kìa
+L138 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bây giờ thì biết rồi Phải
+L139 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có cái giường kìa Paul
+L140 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Lần cuối mình ăn là khi nào
+L141 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đừng nhắc tôi Tôi vẫn ổn tới khi nghe anh nói
+L142 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Để tôi lo cho Tôi sẽ hỏi mấy người kia
+L143 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin lỗi vì làm phiền anh anh Westhus
+L144 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nông dân giỏi nhất
+L145 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các anh thấy đó chúng tôi vẫn chưa ăn gì kể từ bữa sáng
+L146 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng tôi nghĩ các anh có thể chỉ cho chúng tôi biết phải làm gì
+L147 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Vậy thì ăn ngay đi Chuyện đó có gì tức cười
+L148 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đây là một thị trấn không tốt cho lính đói anh bạn
+L149 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng tôi tới đây từ sáng hôm qua và chỉ sống bằng cỏ khô với dao cạo
+L150 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng tôi muốn mua thức ăn
+L151 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Căng tin ở đâu
+L152 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cái căng tin duy nhất ở vùng này đã đi tìm mua thực phẩm
+L153 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nếu có chút thức ăn nào trong vòng 25 dặm ổng sẽ tìm thấy
+L154 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cái gì đây Sĩ quan tương lai tình nguyện
+L155 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đây không có duyệt binh
+L156 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Mấy cậu có khả năng mua không Vâng tất nhiên
+L157 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi có tiền đây
+L158 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Không không phải tiền
+L159 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tiền chỉ là giấy
+L160 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Các cậu có thuốc lá xì gà
+L161 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hay xà bông cognac
+L162 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có có Thuốc lá nhai
+L163 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có có Kat ông điên sao
+L164 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cái này còn không đủ cho chúng ta Ước gì ba người các anh chết đi cho rồi
+L165 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi đã quá chán nuôi ăn miễn phí các anh rồi
+L166 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có gì đem lại đây
+L167 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hả Tối nay phải kéo đường dây kẽm gai
+L168 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ngang qua nghĩa trang
+L169 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Với đám này sao Tối nay êm lắm
+L170 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông có thể dạy họ chút chuyện
+L171 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cám ơn Tôi thà làm một mình Mấy em bé này sẽ bị giết rất nhanh
+L172 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Được xe tải đang đợi
+L173 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thôi đây là cơ hội của các bạn những người anh hùng
+L174 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Không có đường để chạy xe sao
+L175 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cứ để cho hắn chạy đâu tùy thích Giả sử như hắn làm gãy tay cậu
+L176 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu còn ai sống sót sáng mai tôi sẽ đón
+L177 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nếu chiếc xe của anh không giết được chúng tôi thì không có gì giết được đâu
+L178 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông nên chờ lính của ông Ông già
+L179 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đừng có đi chậm quá vậy
+L180 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nghe nè các con Chúng ta chỉ kéo một ít dây
+L181 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng ta sẽ lấy nó trong kho và đem tới nơi nào cần nó
+L182 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chuyện này đã xảy ra với những người giỏi hơn cậu và cũng đã xảy ra với tôi
+L183 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chừng nào về nhà tôi sẽ cho mỗi cậu một cái quần lót sạch
+L184 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cái thứ đạn pháo này các cậu không cần phải chú ý nhiều
+L185 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Những anh chàng bự con chỉ kêu thật lớn và rớt ở cách xa hàng năm dặm
+L186 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cái thứ mà chúng ta nên cảnh giác là những anh chàng nhỏ hơn
+L187 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng nó không hề báo trước Chúng nó kêu Và khi các cậu nghe vậy nằm xuống liền
+L188 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nằm xuống Đất Mẹ
+L189 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ép sát mình xuống Người
+L190 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chôn sâu mình vô lòng Người
+L191 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Suỵt Bây giờ nghe đây
+L192 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ chỉ các cậu cách làm
+L193 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đưa tôi vài cái đó
+L194 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Thấy cái đó không
+L195 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi không thấy được
+L196 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúa ơi Mắt tôi
+L197 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi không thấy được
+L198 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Để tôi đi cứu hắn
+L199 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tại sao cậu liều mạng đem hắn vô đây Nhưng đó là Behn
+L200 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hắn chỉ là một cái xác cho dù hắn là ai
+L201 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bây giờ đừng có ai làm chuyện dại dột đó nữa
+L202 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bỏ hắn qua bên kia
+L203 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Được rồi đi thôi
+L204 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Lấy hành lý và tập họp Nhanh lên
+L205 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Lấy hành lý và tập họp
+L206 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Kat mình làm gì vậy
+L207 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có chuyện gì
+L208 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cậu nghe rồi
+L209 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nhưng đi đâu trời đất ơi
+L210 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đi dự bữa tiệc khác và bữa tiệc này sẽ kéo dài lắm đây
+L211 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đại đội chú ý
+L212 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bỏ tay ra khỏi cái đó Đầm được quyền lấy
+L213 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nếu cậu nghĩ đó là con đầm nhìn lại đi
+L214 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ À chỉ là con bồi
+L215 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thiệt tình mấy lá bài này giống nhau quá
+L216 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi không chơi được
+L217 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chắc là cái thần kinh mong manh của anh không chịu nổi
+L218 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhìn cái này nè
+L219 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có lúc ông sẽ muốn lượm nó lại
+L220 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sẽ không sẽ không kéo dài thêm hai ngày nữa phải không
+L221 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi chưa nói với cậu là chuyến này sẽ rất tệ sao
+L222 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ban ngày thì không sao
+L223 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nhưng nó cứ kéo dài suốt đêm
+L224 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hai ngày nữa là được một tuần nhóc
+L225 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Và rồi cậu có thể nói cậu đã từng nằm dưới làn đạn
+L226 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cậu không sợ phải không Không
+L227 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi chỉ hỏi vậy thôi
+L228 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông nên lấy đôi giày lại trước khi Oscar ăn hết
+L229 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thằng nhỏ nói đúng
+L230 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh không thấy sao Behn
+L231 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hắn đâu có muốn ra chiến trường
+L232 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đó không phải là Behn
+L233 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đó là Kemmerick Đó là tôi
+L234 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Làm ơn nín đi được không bao nhiêu đây cũng đủ tệ rồi
+L235 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Mọi chuyện đều tốt Franz
+L236 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chắc là anh chỉ mơ thôi
+L237 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Pháo kích ngày càng tệ
+L238 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Thêm hai công sự nữa bị mất
+L239 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Dù sao chúng tôi sẽ cố gắng hết sức đem thức ăn tới đây tối nay
+L240 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông làm vậy để làm gì Câm miệng
+L241 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bây giờ ôm nó
+L242 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi không thể chịu đựng được thêm nữa
+L243 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không nó bị trúng đạn vô bụng
+L244 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cậu trúng đạn ở đâu Kemmerick
+L245 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có nặng lắm không sếp Tôi không chắc
+L246 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu chúng ta đi chiến đấu tại sao không chiến đấu Tại sao không xông lên
+L247 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hãy làm một cái gì
+L248 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hãy đuổi theo họ Ngồi xuống
+L249 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Kat kìa Có gì không Có chút may mắn nào không
+L250 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng ta phải chia đều cái này ra
+L251 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có cái ăn rồi
+L252 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Và tráng miệng Và một cái giường nệm để ngủ
+L253 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tránh ra khỏi đây
+L254 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Coi nào nhanh lên
+L255 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Múc đầy vô Và nhanh lên
+L256 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi còn nhiều chuyện khác phải làm
+L257 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi chờ cái này đã ba tuần rồi
+L258 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chừng nào họ tới đủ
+L259 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đậu ông bạn già mập ú
+L260 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông nghĩ tôi muốn gì
+L261 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng tôi đói Im đi Tôi sẽ cho ăn khi nào các anh tới đầy đủ
+L262 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng tôi đã đủ mặt rồi
+L263 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Mới chỉ có nửa đại đội
+L264 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Kêu những người khác lại
+L265 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Kêu họ thức dậy
+L266 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ước gì tôi kêu họ thức dậy được
+L267 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chỉ còn lại 80 người chúng tôi
+L268 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Những người kia đang nằm trạm xá hay làm làm mồi cho dế rồi
+L269 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Được rồi Chúng tôi đã có đủ mặt rồi
+L270 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đáng lẽ phải báo cho tôi biết
+L271 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đúng là một đại tiệc
+L272 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ai cũng được hai phần
+L273 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Trở về hàng Ôi không
+L274 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vậy không được Tôi không thể cho 80 người phần của 150 người
+L275 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nghe nè Ông cấp khẩu phần cho Đại đội Hai phải không
+L276 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Phải Được rồi Chúng tôi là Đại đội Hai
+L277 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi đã nhận lệnh Kat nói đúng Chúng tôi là Đại đội Hai
+L278 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Và nếu chỉ có phân nửa chúng tôi quay về đó là vận may của chúng tôi Mau
+L279 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bây giờ đồ chuột hạ cấp tránh ra nếu không chúng tôi bẻ cổ ông ra
+L280 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cho chúng tôi ăn Chú ý
+L281 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có chuyện gì ở đây
+L282 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cứ tự nhiên Ồ không sao Đừng để ý tới tôi
+L283 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các bạn biết không
+L284 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi có thể ăn thêm ít đậu nữa Cứ tự nhiên Đằng kia còn nhiều
+L285 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không biết chừng nào mình lại trở ra mặt trận Ngày mai
+L286 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tự nhiên làm mất ngon
+L287 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nếu ngày mai họ lại bắt chúng ta hành quân chúng ta phải đi thăm Kemmerick một cái
+L288 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ý hay đó Vậy hãy đi
+L289 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đây tới trạm xá bao xa Khoảng hai dặm Chúng ta có thể đem đồ đạc cho hắn
+L290 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Người Pháp chắc chắn xứng đáng bị trừng phạt vì đã gây ra cuộc chiến này
+L291 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nhiều người nói là một nước khác
+L292 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bằng cách nào họ gây ra một cuộc chiến tranh
+L293 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thì một nước này xúc phạm một nước khác
+L294 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nghe nè đồ ngu một người này xúc phạm một người khác
+L295 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ồ nếu vậy thì tôi không nên ở đó
+L296 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ không cảm thấy bị xúc phạm
+L297 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nó không dính dáng tới những người tầm thường như anh
+L298 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tốt Vậy tôi có thể về nhà ngay bây giờ
+L299 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ À cứ đi thử coi Phải Anh muốn bị bắn sao
+L300 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hoàng đế và tôi
+L301 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi và Hoàng đế đều cảm thấy giống nhau về cuộc chiến này
+L302 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Phải có ai đó muốn có chiến tranh
+L303 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có lẽ đó là người Anh
+L304 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Và tôi nghĩ hầu hết họ cũng chưa bao giờ thấy một người Đức cho tới khi tới đây
+L305 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không tôi chắc là họ không muốn gây chiến đâu
+L306 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Vậy chắc phải có ích lợi gì cho ai đó
+L307 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không phải tôi và Hoàng đế
+L308 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi nghĩ có lẽ chính Hoàng đế muốn một cuộc chiến
+L309 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đừng lôi kéo chúng tôi vô chuyện này
+L310 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi không thấy vậy
+L311 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hoàng đế đã có mọi thứ ổng cần
+L312 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhưng ổng chưa bao giờ có một cuộc chiến
+L313 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Họ cũng cần chiến tranh Và các nhà tư bản
+L314 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Họ sẽ giàu lên
+L315 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi nghĩ nó cũng đại loại như một cơn sốt vậy
+L316 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bất cứ khi nào có một cuộc đại chiến xảy ra
+L317 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ các bạn nên quây một bãi đất lớn Và bán vé
+L318 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đừng quên Chúng tôi sẽ trở về
+L319 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Gởi lời thăm thằng nhỏ
+L320 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh sao rồi Anh khỏe không Anh sao rồi
+L321 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Họ có chăm sóc anh tốt không
+L322 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Họ đối xử với anh ra sao Franz
+L323 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có bọn cướp ở đây
+L324 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Họ đã ăn cắp đồng hồ của tôi
+L325 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Họ lấy nó trong khi tôi đang ngủ
+L326 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh thấy có khỏe không
+L327 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đó là vì anh mất quá nhiều máu Cứ ăn đầy đủ thì anh sẽ khỏe lại Ôi không
+L328 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nó tốt cho anh
+L329 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bàn chân tôi đau kinh khủng
+L330 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Mọi ngón trên bàn chân phải đều đau
+L331 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bàn chân anh làm sao đau được khi đã bị
+L332 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Họ đã cưa chân tôi
+L333 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tại sao họ không cho tôi biết Tại sao
+L334 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tại sao họ không nói với tôi
+L335 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bây giờ tôi không đi được nữa rồi
+L336 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh phải cám ơn vì anh chỉ phải bị như vậy
+L337 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi đã từng muốn làm người gác rừng Anh vẫn có thể làm được
+L338 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bây giờ người ta làm chân giả tốt lắm
+L339 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Và anh sẽ qua thôi Anh có thể về nhà
+L340 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hãy nghĩ tới chuyện đó
+L341 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thấy chưa Bỏ chúng dưới giường
+L342 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đây là một đôi giày hết xẩy
+L343 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Vô cùng thoải mái Tôi vừa nghĩ ra
+L344 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu anh không còn dùng cái này nữa Franz sao anh không để lại cho chúng tôi
+L345 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Nó có ích gì cho anh
+L346 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi có thể dùng nó được
+L347 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Giày của tôi cứ làm phồng da và phồng da
+L348 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ À chúng tôi phải đi rồi Franz
+L349 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hãy ở lại thêm chút nữa
+L350 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ quay lại ngay Chúng tôi sẽ sớm quay lại Franz
+L351 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chắc chắn anh sẽ khá hơn Tạm biệt Tạm biệt
+L352 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh nghĩ hắn sẽ chịu đựng được sau những chuyện như vậy không Tôi không nghĩ
+L353 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các bạn các bạn đi trước
+L354 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Gặp lại sau Tạm biệt Paul
+L355 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẵn sàng đi chân trần qua kẽm gai vì hắn nếu chuyện đó giúp được gì cho hắn
+L356 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ở đây chúng ta đều giống nhau Và giày tốt thì khó kiếm
+L357 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bác sĩ người ở giường kế bên muốn gặp ông thưa ông
+L358 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ổng nói lần sau Franz
+L359 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh có nghĩ là tôi sẽ khỏe lại
+L360 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh có thật lòng nghĩ vậy không
+L361 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tất nhiên Một khi anh đã qua cuộc phẫu thuật
+L362 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi không nghĩ vậy
+L363 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Franz đừng nói vớ vẩn Anh sẽ khỏe lại như mới
+L364 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Họ còn trị được nhiều thứ tệ hơn nhiều
+L365 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Có lẽ anh sẽ về nằm ở nhà điều dưỡng ở Klosterberg giữa miền quê
+L366 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Rồi anh có thể nhìn qua cửa sổ bên kia cánh đồng có hai cái cây ở chân trời
+L367 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ôi nhưng Franz bây giờ anh phải ráng ngủ
+L368 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ôi Chúa đây là Franz Kemmerick chỉ mới 19 tuổi
+L369 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hắn không muốn chết
+L370 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ XIn đừng để hắn chết Paul
+L371 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đem đôi giày về cho Mueller
+L372 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ôi không Franz không
+L373 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Paul anh tìm thấy đồng hồ của tôi hãy gởi về nhà
+L374 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bác sĩ Bác sĩ
+L375 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bác sĩ đâu Tại sao không có một bác sĩ nào
+L376 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bác sĩ tới nhanh Franz Kemmerick đang chết
+L377 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Trông anh tốt lắm
+L378 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hôm nay rất tốt
+L379 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh chạy đâu vậy
+L380 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Dám chắc hắn chôm đôi giày đó
+L381 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi làm được rồi Kat
+L382 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi thấy vui khi làm việc này
+L383 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Mueller Tôi đã chứng kiến hắn chết Trước đây tôi chưa từng biết chết giống như cái gì
+L384 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi bắt đầu nghĩ tới những điều kỳ lạ nhất như là đang ở ngoài đồng trống
+L385 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Những thứ như vậy
+L386 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Anh biết đó những cô gái
+L387 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi vượt qua những người lính và tôi nghe có nhiều tiếng gọi tôi Tôi chạy và chạy
+L388 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi cảm thấy như tôi không thể hít thở đủ không khí
+L389 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đúng là một phát minh hay
+L390 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu anh giết từng con rận thử nghĩ coi phải tốn bao nhiêu năng lượng
+L391 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cháy tiêu luôn Đi tuần sao rồi Tệ không
+L392 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi có một vườn cây với nhiều cây anh đào ở nhà
+L393 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Khi chúng trổ hoa từ trong vựa cỏ khô nhìn ra như một dải lụa trắng
+L394 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có lẽ anh sẽ được giải ngũ sớm
+L395 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh còn có thể được trở về làm nông dân
+L396 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Một người phụ nữ không thể một mình trông coi một nông trại
+L397 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cái đó không tốt Cho dù cổ có làm việc chăm chỉ tới đâu
+L398 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Mùa màng lại tới
+L399 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hắn bị sao vậy Mới nhận được thư của vợ hôm qua
+L400 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hắn muốn trở về nông trại của mình Chúng ta ai cũng muốn về nhà
+L401 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Và khi tôi tìm thấy cổ sẽ không ai thấy tôi trong vòng hai tuần lễ
+L402 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ trở về bãi than sống những giây phút hạnh phúc trong vườn ủ bia
+L403 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Và những cục than làm hư giày nữa
+L404 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi phải đá đít cậu vì đã khơi ra chuyện này
+L405 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các người nói chuyện nghe được quá Các người có một chỗ để quay về vợ con công việc
+L406 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhưng còn chúng tôi thì sao
+L407 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng tôi có gì để quay về Trường học Tại sao không
+L408 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sau đó thì chuyện gì sẽ xảy ra với chúng tôi Để tôi nói cho nghe
+L409 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hãy theo lớp của chúng tôi
+L410 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Trong 20 người ba là sĩ quan chín chết
+L411 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Vô trong đó đi Nhanh lên
+L412 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có chuyện gì vậy
+L413 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cậu sao vậy điên hả
+L414 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có công lý trong quân đội
+L415 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Vậy là chúng ta đều ở đây hả
+L416 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Lâu hơn ông một chút Himmie
+L417 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng ta thân nhau từ khi nào vậy Đứng dậy và sắp hàng với nhau
+L418 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tất cả các người Hãy tự mình đi chạy nhảy đi
+L419 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bạn cậu là ai vậy
+L420 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Có ai vui lòng lấy cho Đại tướng Ludendorff một cái ghế không
+L421 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi ra lệnh cho các người với tư cách một sĩ quan cấp trên
+L422 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tối nay sẽ có một trận đánh lớn và tôi chỉ muốn thoát ra khỏi nó
+L423 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Các người có nghe lệnh tôi không
+L424 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hôn mông tôi đi
+L425 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ở đây không quen nghi thức chào đón
+L426 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhiều người bị giết và nhiều người bị thương
+L427 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Lần này ông sẽ đi với chúng tôi
+L428 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Xin phép Trung sĩ Himmelstoss chúng tôi đi được chưa Anh sẽ Anh sẽ phải trả giá anh
+L429 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi bị thương Tôi bị thương
+L430 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chỉ là một vết trầy đồ chuột cống
+L431 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ra ngoài với người ta
+L432 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Đồ chuột cống hôi thúi Để cho người khác chiến đấu hả
+L433 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đứng dậy Tiến lên Hãy đi khỏi đây
+L434 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Mệnh lệnh là tiến lên Tiến lên
+L435 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi muốn giúp ông
+L436 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Thôi ngay thôi ngay
+L437 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tại sao ông lâu chết quá vậy Thế nào rồi ông cũng chết
+L438 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông sẽ không chết Ôi không Ông sẽ không chết
+L439 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chỉ là những vết thương nhỏ
+L440 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông sẽ về nhà
+L441 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đó là do ông bắt buộc tội tôi
+L442 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nói cho ông biết tôi không muốn giết ông
+L443 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi muốn cứu ông sống
+L444 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu ông nhảy vô đây lần nữa tôi sẽ không làm vậy đâu
+L445 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Khi ông nhảy vô đây ông là kẻ thù của tôi và tôi đã sợ ông
+L446 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhưng ông chỉ là một con người như tôi vậy mà tôi đã giết ông
+L447 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tha thứ cho tôi đồng chí
+L448 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nói ông tha thứ tôi
+L449 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ông còn khá hơn tôi
+L450 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông đã xong rồi
+L451 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng ta chỉ muốn sống ông và tôi
+L452 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ông phải tha thứ cho tôi đồng chí
+L453 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ làm hết sức mình
+L454 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi sẽ viết thư cho cha mẹ ông
+L455 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ viết thư cho vợ ông
+L456 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi hứa bả sẽ không thiếu thốn gì
+L457 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi sẽ giúp bả và cha mẹ ông nữa
+L458 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chỉ cần tha thứ cho tôi
+L459 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tha thứ cho tôi Tha thứ cho tôi
+L460 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tha thứ cho tôi
+L461 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tha thứ cho tôi
+L462 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hôm qua đã xảy ra một chuyện khủng khiếp
+L463 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi đã đâm một người
+L464 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Bằng chính tay tôi đâm hắn
+L465 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Tôi hiểu cảm giác đó
+L466 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Lần đầu tiên của cậu Đừng bận tâm
+L467 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Những người khiêng băng ca sẽ tìm thấy hắn
+L468 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi đã nhìn hắn chết
+L469 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Cậu không thể làm gì khác được
+L470 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng ta phải giết
+L471 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng ta không thể làm khác được
+L472 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Chúng ta tới đây để làm chuyện đó
+L473 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Thí dụ như hãy nhìn ngoài kia
+L474 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Phải chi các bạn nhìn thấy hắn nhảy lên ra sao
+L475 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Gã đó đã phải bắn cùng với chúng ta hôm nay và đã trúng ba phát rồi
+L476 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nếu cứ tiếp tục như vậy tối nay hắn sẽ có huy chương trên khuy áo
+L477 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đừng mất ngủ vì những chuyện này nữa
+L478 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Rốt cuộc thì chiến tranh là chiến tranh
+L479 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Đại đội đứng lại
+L480 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Hạ sĩ quan tân binh tan hàng
+L481 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hãy đi khỏi đây
+L482 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cho tôi xúc xích ngon nhất Hai cái
+L483 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Một hai ba vô
+L484 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nè mau Một ly bia
+L485 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ê tránh ra khỏi đây Mau lên
+L486 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cho tôi một ly bia
+L487 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Ước gì mình say quắc cần câu tối nay Vậy thì hãy bắt đầu
+L488 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Tôi đã quên là trên đời này còn có những cô gái như vậy Không có đâu
+L489 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hãy nhìn đôi giày nhỏ xíu mong manh kia
+L490 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Cổ không thể hành quân nhiều dặm đường trong đôi giày đó Paul Đừng nói tới chuyện hành quân
+L491 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh đang làm quý cô chán đó
+L492 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Một ngàn lời xin lỗi
+L493 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Anh nghĩ cổ bao nhiêu tuổi
+L494 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Ồ khoảng 22
+L495 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Không vậy thì cổ già hơn mình
+L496 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Sẽ làm đời tươi đẹp hả Albert
+L497 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Chúng ta không có nhiều cơ hội khi có hắn bên cạnh
+L498 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Mình phải đi tắm giặt quần áo Đúng vậy và có khi còn phải tẩy rận nữa
+L499 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Bây giờ cổ đã ở xa lắm rồi
+L500 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Nhìn cái ngày kìa Tháng Năm 1917

@@ -2,7 +2,7 @@
 training_data_path = 'data/conversations_lenmax22_formersents2_with_former'
 
 # path to all_words
-all_words_path = 'data/all_words_2k_line.txt'
+all_words_path = 'data/all_words.txt'
 
 # training parameters 
 CHECKPOINT = False
@@ -13,7 +13,7 @@ start_batch = 0
 batch_size = 25
 
 # for RL training
-training_type = 'pg' # 'normal' for seq2seq training, 'pg' for policy gradient
+training_type = 'normal' # 'normal' for seq2seq training, 'pg' for policy gradient
 reversed_model_path = 'model/Reversed'
 reversed_model_name = 'model-63'
 

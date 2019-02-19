@@ -16,6 +16,7 @@ import time
 
 
 ### Global Parameters ###
+### Global Parameters ###
 checkpoint = config.CHECKPOINT
 model_path = config.train_model_path
 model_name = config.train_model_name
@@ -30,7 +31,8 @@ dim_hidden = 1000
 n_encode_lstm_step = 22 + 22
 n_decode_lstm_step = 22
 
-epochs = 500
+# vĩ edited 19/02/2019
+epochs = 25
 batch_size = 100
 learning_rate = 0.0001
 

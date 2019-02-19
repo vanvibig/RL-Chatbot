@@ -54,6 +54,9 @@ r_n_encode_lstm_step = 22
 r_n_decode_lstm_step = 22
 
 learning_rate = 0.0001
+
+# kv edit 19/02/2019
+
 epochs = 500
 batch_size = config.batch_size
 reversed_batch_size = config.batch_size

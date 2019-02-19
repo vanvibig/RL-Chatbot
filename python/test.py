@@ -18,9 +18,10 @@ import time
 #=====================================================
 # Global Parameters
 #=====================================================
-default_model_path = './model/Seq2Seq/model-77'
-testing_data_path = 'sample_input.txt' if len(sys.argv) <= 2 else sys.argv[2]
-output_path = 'sample_output_S2S.txt' if len(sys.argv) <= 3 else sys.argv[3]
+# default_model_path = './model/Seq2Seq/model-77'
+default_model_path = './model/model-18'
+testing_data_path = './result/vn_sample_input.txt' if len(sys.argv) <= 2 else sys.argv[2]
+output_path = './result/vn_sample_output.txt' if len(sys.argv) <= 3 else sys.argv[3]
 
 word_count_threshold = config.WC_threshold
 
