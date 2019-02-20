@@ -32,7 +32,7 @@ n_encode_lstm_step = 22 + 22
 n_decode_lstm_step = 22
 
 # vĩ edited 19/02/2019
-epochs = 25
+epochs = 30
 batch_size = 100
 learning_rate = 0.0001
 
