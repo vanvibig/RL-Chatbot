@@ -57,7 +57,7 @@ learning_rate = 0.0001
 
 # kv edit 19/02/2019
 
-epochs = 25
+epochs = 30
 batch_size = config.batch_size
 reversed_batch_size = config.batch_size
 
