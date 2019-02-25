@@ -19,7 +19,7 @@ import time
 # Global Parameters
 #=====================================================
 # default_model_path = './model/Seq2Seq/model-77'
-default_model_path = './model/model-18'
+default_model_path = './model/model-1'
 testing_data_path = './result/vn_sample_input.txt' if len(sys.argv) <= 2 else sys.argv[2]
 output_path = './result/vn_sample_output.txt' if len(sys.argv) <= 3 else sys.argv[3]
 
