@@ -41,8 +41,11 @@ batch_size = 1
 
 """ Extract only the vocabulary part of the data """
 def refine(data):
-    words = re.findall("[a-zA-Z'-]+", data)
-    words = ["".join(word.split("'")) for word in words]
+#    words = re.findall("[a-zA-Z'-]+", data)
+    # data = "Anh yêu em nhiều lắm"
+    rgx = re.compile("([\w][\w']*\w)")
+    words = rgx.findall(data)
+    words = ["".join(word.split(" ")) for word in words]
     # words = ["".join(word.split("-")) for word in words]
     data = ' '.join(words)
     return data
