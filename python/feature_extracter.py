@@ -1,15 +1,16 @@
 # coding=utf-8
 # -*- coding: utf-8 -*-
+
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 from __future__ import print_function
 import cPickle as pickle
 import time
 import re
 import numpy as np
 from gensim.models import word2vec, KeyedVectors
-
-import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
 
 
 WORD_VECTOR_SIZE = 300
