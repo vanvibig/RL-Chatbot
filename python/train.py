@@ -179,7 +179,7 @@ def train():
                             tf_caption: current_caption_matrix,
                             tf_caption_mask: current_caption_masks
                         })
-                print("Epoch: {}, batch: {}, loss: {}, Elapsed time: {}".format(epoch, batch, loss_val, time.time() - start_time))
+                print("Epoch: {}, batch: {} of {}, loss: {}, Elapsed time: {}".format(epoch, batch, n_batch, loss_val, time.time() - start_time))
             else:
                 _ = sess.run(train_op,
                              feed_dict={
