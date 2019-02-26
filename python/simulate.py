@@ -19,7 +19,7 @@ import time
 #=====================================================
 # Global Parameters
 #=====================================================
-default_model_path = './model/model-29'
+default_model_path = './model/model-1'
 default_simulate_type = 1  # type 1 use one former sent, type 2 use two former sents
 
 testing_data_path = './result/vn_sample_input.txt' if len(sys.argv) <= 3 else sys.argv[3]
