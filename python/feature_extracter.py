@@ -43,6 +43,8 @@ for conversation in raw_movie_conversations:
     conversation = conversation.replace('[', '')
     conversation = conversation.replace(']', '')
     conversation = conversation.replace('\'', '')
+    conversation = conversation.replace('\r', '')
+    conversation = conversation.replace('\n', '')
     conversation = conversation.split(', ')
     assert len(conversation) > 1
     for i in range(len(conversation)-1):
@@ -97,6 +99,8 @@ for conversation in raw_movie_conversations:
     conversation = conversation.replace('[', '')
     conversation = conversation.replace(']', '')
     conversation = conversation.replace('\'', '')
+    conversation = conversation.replace('\r', '')
+    conversation = conversation.replace('\n', '')
     conversation = conversation.split(', ')
     assert len(conversation) > 1
     con_a_1 = ''
@@ -129,6 +133,8 @@ for conversation in raw_movie_conversations:
     conversation = conversation.replace('[', '')
     conversation = conversation.replace(']', '')
     conversation = conversation.replace('\'', '')
+    conversation = conversation.replace('\r', '')
+    conversation = conversation.replace('\n', '')
     conversation = conversation.split(', ')
     assert len(conversation) > 1
     con_a_1 = ''
@@ -159,6 +165,8 @@ for conversation in raw_movie_conversations:
     conversation = conversation.replace('[', '')
     conversation = conversation.replace(']', '')
     conversation = conversation.replace('\'', '')
+    conversation = conversation.replace('\r', '')
+    conversation = conversation.replace('\n', '')
     conversation = conversation.split(', ')
     assert len(conversation) > 1
     for i in range(len(conversation)-1):
